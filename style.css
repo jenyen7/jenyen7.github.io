@@ -1,0 +1,29 @@
+body {
+	background-color: #FDF6E3;
+	font-family: calibri;
+}
+
+p {
+    font-size: 18px;
+	color: #9A7B4F;
+}
+
+h2 {
+	color: brown;
+}
+
+table {
+	margin-bottom: 2em;
+	font-size: 17px;
+	border: solid;
+}
+
+table tr#ROW1 {
+	background-color: brown; color: white;
+}
+
+td, th {
+	border: 0.5px double;
+    padding: 0.1em 1em;
+}
+
